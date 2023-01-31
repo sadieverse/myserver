@@ -2,10 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello world!"
+      "title": "hello world!",
+    }
+      {
+      "id": 2,
+      "title": "Second post",
     }
   ],
   "profile": {
-    "name": "Saya"
+    "name": "Saya",
+    "age": "21"
   }
 }
