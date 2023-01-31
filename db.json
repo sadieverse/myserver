@@ -1,16 +1,16 @@
+
 {
   "posts": [
     {
       "id": 1,
       "title": "hello world!"
     },
-      {
+    {
       "id": 2,
-      "title": "Second post"
+      "title": "Second Test Post"
     }
   ],
   "profile": {
     "name": "Saya",
-    "age": "21"
   }
 }
