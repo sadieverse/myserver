@@ -3,11 +3,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello world!"
+      "title": "clean the apartment"
     },
     {
       "id": 2,
-      "title": "Second Test Post"
+      "title": "sort emails"
+    },
+     {
+      "id": 3,
+      "title": "cook dinner"
     }
   ],
   "profile": {
